@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 packages:
   - package: dbt-labs/dbt_utils
+=======
+packages:
+  - package: dbt-labs/dbt_utils
+>>>>>>> edcb034 (pushing netflix snowflake changes to git)
     version: 1.3.0
